@@ -1,0 +1,28 @@
+# Environment variables - JANGAN di-upload ke GitHub!
+.env
+
+# Database - data player disimpan di Railway volume
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
